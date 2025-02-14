@@ -4,8 +4,8 @@
 </h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDR4djFpeTN6NWZibzQwNW4yamlwMGx5MWU1MDJqaHhieXJha2o3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.webp">
 <p align="left">
-Hello! I'm Shweta, a passionate data enthusiast and software developer with a strong foundation in C++, SQL, Power BI and Core Java.
-My GitHub repository showcases a diverse range of projects that highlight my expertise in data analysis, visualization, and programming. 
+Hello! I'm Shweta, a passionate data enthusiast and software developer with a strong foundation in Object Oriented Programming, C++, Database Management System, SQL, MySQL, Python and Core Java.
+My GitHub repository showcases a diverse range of projects that highlight my expertise in full stack development, database management, and programming. 
 I leverage SQL for efficient database management and querying, Power BI for creating insightful data visualizations, and Excel for advanced data manipulation. 
 My proficiency in C++ allow me to build robust and efficient software applications.
 I'm excited to share my work and collaborate on innovative projects that push the boundaries of technology and data.
